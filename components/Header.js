@@ -50,7 +50,7 @@ function Header() {
             Search
           </button>
         </form>
-        <Avatar className="ml-auto"/>
+        <Avatar />
       </div>
 
       <HeaderOptions />
